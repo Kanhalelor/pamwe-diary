@@ -1,0 +1,1 @@
+# pamwe-diary
